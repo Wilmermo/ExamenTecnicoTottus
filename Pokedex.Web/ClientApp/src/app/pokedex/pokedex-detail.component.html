@@ -1,0 +1,23 @@
+<button (click)="Regresar()" class="btn-primary col-sm-4 form-control" style="width:120px;">
+  <i class="fa fa-arrow-circle-o-left"></i> Regresar
+</button>
+<br />
+<div class="container">
+  <div class="row" style="text-align:center;">
+    <div class="col-sm-12">
+      <h1> Pokedex : {{selectedPokedex.numero}} - {{selectedPokedex.nombre}} </h1>
+    </div>
+  </div>
+  <div class="row" style="text-align:center;">
+    <div class="col-sm-12">
+      <img src="assets/img/{{selectedPokedex.foto}}" width="300" height="300" class="img-fluid"/>
+    </div>
+  </div>
+  <div class="row" style="text-align:left;">
+    <div class="col-sm-12">
+      <h4>Descripción :</h4>
+      <h4> {{selectedPokedex.descripcion}} </h4>
+    </div>
+  </div>
+</div>
+

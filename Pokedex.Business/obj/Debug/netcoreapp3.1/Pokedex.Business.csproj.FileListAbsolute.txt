@@ -1,0 +1,14 @@
+D:\EXAMEN DE INGRESO LABORAL\EXAMEN TECNICO 2021 - TOTUS\SlnPokedex.Web\Pokedex.Business\bin\Debug\netcoreapp3.1\Pokedex.Business.deps.json
+D:\EXAMEN DE INGRESO LABORAL\EXAMEN TECNICO 2021 - TOTUS\SlnPokedex.Web\Pokedex.Business\bin\Debug\netcoreapp3.1\Pokedex.Business.dll
+D:\EXAMEN DE INGRESO LABORAL\EXAMEN TECNICO 2021 - TOTUS\SlnPokedex.Web\Pokedex.Business\bin\Debug\netcoreapp3.1\Pokedex.Business.pdb
+D:\EXAMEN DE INGRESO LABORAL\EXAMEN TECNICO 2021 - TOTUS\SlnPokedex.Web\Pokedex.Business\bin\Debug\netcoreapp3.1\Pokedex.Data.dll
+D:\EXAMEN DE INGRESO LABORAL\EXAMEN TECNICO 2021 - TOTUS\SlnPokedex.Web\Pokedex.Business\bin\Debug\netcoreapp3.1\Pokedex.Entity.dll
+D:\EXAMEN DE INGRESO LABORAL\EXAMEN TECNICO 2021 - TOTUS\SlnPokedex.Web\Pokedex.Business\bin\Debug\netcoreapp3.1\Pokedex.Data.pdb
+D:\EXAMEN DE INGRESO LABORAL\EXAMEN TECNICO 2021 - TOTUS\SlnPokedex.Web\Pokedex.Business\bin\Debug\netcoreapp3.1\Pokedex.Entity.pdb
+D:\EXAMEN DE INGRESO LABORAL\EXAMEN TECNICO 2021 - TOTUS\SlnPokedex.Web\Pokedex.Business\obj\Debug\netcoreapp3.1\Pokedex.Business.csprojAssemblyReference.cache
+D:\EXAMEN DE INGRESO LABORAL\EXAMEN TECNICO 2021 - TOTUS\SlnPokedex.Web\Pokedex.Business\obj\Debug\netcoreapp3.1\Pokedex.Business.AssemblyInfoInputs.cache
+D:\EXAMEN DE INGRESO LABORAL\EXAMEN TECNICO 2021 - TOTUS\SlnPokedex.Web\Pokedex.Business\obj\Debug\netcoreapp3.1\Pokedex.Business.AssemblyInfo.cs
+D:\EXAMEN DE INGRESO LABORAL\EXAMEN TECNICO 2021 - TOTUS\SlnPokedex.Web\Pokedex.Business\obj\Debug\netcoreapp3.1\Pokedex.Business.csproj.CoreCompileInputs.cache
+D:\EXAMEN DE INGRESO LABORAL\EXAMEN TECNICO 2021 - TOTUS\SlnPokedex.Web\Pokedex.Business\obj\Debug\netcoreapp3.1\Pokedex.Business.csproj.CopyComplete
+D:\EXAMEN DE INGRESO LABORAL\EXAMEN TECNICO 2021 - TOTUS\SlnPokedex.Web\Pokedex.Business\obj\Debug\netcoreapp3.1\Pokedex.Business.dll
+D:\EXAMEN DE INGRESO LABORAL\EXAMEN TECNICO 2021 - TOTUS\SlnPokedex.Web\Pokedex.Business\obj\Debug\netcoreapp3.1\Pokedex.Business.pdb
